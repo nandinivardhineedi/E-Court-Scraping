@@ -1,0 +1,5 @@
+{
+  "name": "eCourts Cause List Scraper",
+  "description": "A web interface to fetch and download eCourts cause lists for Indian district courts. This application simulates real-time scraping using AI to generate realistic court data.",
+  "requestFramePermissions": []
+}
